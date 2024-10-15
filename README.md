@@ -1,10 +1,9 @@
 # M4K - Math for Kids
 
-<img src="images/logo.png" width="256" alt='logo'>
 
 ## Demo App
 
-https://drive.google.com/file/d/1XbVsUzPTgBGSfMTNMfMLZRL0GCY-N7JZ/view?usp=sharing
+https://drive.google.com/drive/u/0/folders/1_X6ptYkSWqRTVcUWorM0NpLyHFB0b4rH
 
 ## Table of Contents
 
@@ -57,13 +56,10 @@ Game Mechanics
 ## Screenshots
 
 <p float='left'>
-<img src="images/home.png" width="45%" alt='screen1'>
-<img src="images/VideoHome.jpg" width="45%" alt='screen1'>
-<img src="images/Video.jpg" width="45%" alt='screen1'>
-<img src="images/QuizHome.jpg" width="45%" alt='screen1'>
-<img src="images/QuizAns.jpg" width="45%" alt='screen1'>
-<img src="images/PuzzleHome.jpg" width="45%" alt='screen1'>
-<img src="images/Puzzle.jpg" width="45%" alt='screen1'>
+<img src="images/1.jpg" width="45%" alt='screen1'>
+<img src="images/3.jpg" width="45%" alt='screen1'>
+<img src="images/4.jpg" width="45%" alt='screen1'>
+<img src="images/5.jpg" width="45%" alt='screen1'>
 </p>
 
 ## Getting Started
