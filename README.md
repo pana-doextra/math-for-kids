@@ -3,7 +3,7 @@
 
 ## Demo App
 
-https://drive.google.com/drive/u/0/folders/1_X6ptYkSWqRTVcUWorM0NpLyHFB0b4rH
+https://drive.google.com/file/d/1K60kPxrPcunJ9GCWkogO7kPXKMyaqSXP/view?usp=sharing
 
 ## Table of Contents
 
